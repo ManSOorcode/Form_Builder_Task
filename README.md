@@ -90,5 +90,5 @@ form-template-builder/
 
 ### 1️⃣ Clone the Repository:
 ```bash
-https://github.com/ManSOorcode/form_builder_app.git
-cd form-template-builder
+https://github.com/ManSOorcode/Form_Builder_Task.git
+cd Form_Builder_Task
